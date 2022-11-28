@@ -17,4 +17,4 @@ jobs:
         server: pass-m-n.tk
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: "/home/www/pass-m-n.tk"
+        server-dir: "/home/www/pass-m-n.tk/"
